@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @humaidaAra
 - 👀 I’m interested in Desktop application, Data Structure and Algorithms. I love working with Java.
-- 🌱 I’m currently learning C#, Python, PHP, Javascript
+- 🌱 currently learning PHP, Javascript
+- 🤖 work experience with VueJS, Laravel, Node
 - 📫 How to reach me? Mail: hama3662@gmail.com
 
 <!---
