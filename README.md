@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humaidaAra
-- 👀 I’m interested in Desktop application, Data Structure and Algorithms. I love working with Java.
-- 🌱 currently learning PHP, Javascript
-- 🤖 work experience with VueJS, Laravel, Node
+- 👀 Full-Stack Developer @SmartMed.
+- ⛓️ VueJs, Firebase, Postgresql, Laravel, Qdrant, Django, FastAPI
+- 🤖 3 Years Experiencewith VueJS, Laravel, Node
 - 📫 How to reach me? Mail: hama3662@gmail.com
 
 <!---
